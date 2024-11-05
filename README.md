@@ -24,4 +24,4 @@ Solicitudes de Funciones: ¿Tienes una idea para una nueva característica? Env�
 Desarrollo: Si eres desarrollador, revisa nuestros issues abiertos y contribuye con tu código.
 
 # Clonar el Repositorio
-git clone 
+git clone https://github.com/JhonathanSR/LoginDiverfix.git
